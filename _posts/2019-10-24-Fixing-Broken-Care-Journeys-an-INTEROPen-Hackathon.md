@@ -33,7 +33,7 @@ One of the things that went extremely well was that it didn’t take us long to 
 Since the GP Connect standards include an HTML (formatted for display) version of the data, we could insert that directly into our application.
 
 With some styling applied, it looks like this:  
-![GP Prescription Summary](/img/Hackathon2019/GPConnect_HTML.png){: .center-block :}
+![GP Prescription Summary](/assets/img/Hackathon2019/GPConnect_HTML.png){: .center-block :}
 
 With EMIS’s team sitting on the same table as us, we were able to watch as they changed the data to suit our needs, which gave us a better understanding of what different parts of the structured data means.
 
