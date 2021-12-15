@@ -53,17 +53,17 @@ Since we have mapped the drugs to our drug database, we can identify which of th
 For the purposes of medicines reconciliation, it will be necessary to match on dose as well, since changes in dose are also sent to the GP in the discharge notification, but until we have dose and frequency in coded form, that will not be necessary. 
 
 Even so, **this is a huge improvement upon manual checking of every drug!**  
-![Reconciliation Tab](/img/Hackathon2019/reconciliation_tab.png){: .center-block :}
+![Reconciliation Tab](/assets/img/Hackathon2019/reconciliation_tab.png){: .center-block :}
 
 Even more excitingly, because the drug identified within the FDB multiplex data, **we can warn the user about duplicate ingredients and duplicate therapies and allergy warnings for the patient!**
 
 When a row in the list is clicked, it automatically navigates to the new drug screen. We have displayed the drug product and free text dose and frequency at the top. The selected drug is brought through, so the application can now use our existing decision support functionality (sensitivities, interactions, duplicate ingredients/therapies, and high level warnings).  
-![Decision Support](/img/Hackathon2019/decision_suppport.png){: .center-block :}
+![Decision Support](/assets/img/Hackathon2019/decision_suppport.png){: .center-block :}
 
 Over the two days we got to meet people with different areas of expertise, and were able to learn a lot of exciting things about how system interopability is improving. By talking to people from NHS digital, we developed a much better understanding of SNOMED data structure which will help us not just with medicines reconciliation, but also diagnoses and allergies reconciliation.
 # The Future
 To take this exciting project forward, we are part way through the on boarding process with GP Connect, and we are developing our infrastructure for consuming the data via APIs. Once this is done, we can use some of the workings from our Hackathon days to integrate GP Medications in to our EPMA system, and realise the benefits listed.
 
-![Group Photo](/img/Hackathon2019/group_photo.jpg){: .center-block :}
+![Group Photo](/assets/img/Hackathon2019/group_photo.jpg){: .center-block :}
 
 _by Anne Jessop_
