@@ -3,12 +3,12 @@ layout: post
 title: Marjorie's Story
 subtitle: An Illustrative patient Journey
 cover-img: /assets/img/edentranceclip.jpg
+share-img: /assets/img/path.jpg
 published: true
 tags: [OrclApex,Oracle,Showcase]
 ---
 
 #thumbnail-img: /assets/img/thumb.png
-#share-img: /assets/img/path.jpg
 
 Marjorie is an 85 year old lady who is taken ill at home. An ambulance is sent following a 999 call. The Ambulance Service book her onto their system and record that she is being brought into her local hospital. At the hospital the Emergency Department and the control room know she is coming as she appears on the ambulance arrivals boards located in the both locations.
 Marjorie arrives at the department and is booked in by the admin team. 
