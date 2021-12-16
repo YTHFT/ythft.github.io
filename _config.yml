@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: YSTHFT Digital Blog
+title: YSTHFT Digital Development Blog
 
 # Your name to show in the footer
 author: YSTHFT DIS Team
@@ -14,7 +14,7 @@ author: YSTHFT DIS Team
 # --- List of links in the navigation bar --- #
 
 #navbar-links:
-#  About Me: "aboutme"
+About Me: "about us"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "kevin.beatson@york.nhs.uk"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
   #github: daattali
