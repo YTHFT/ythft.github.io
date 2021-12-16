@@ -1,3 +1,9 @@
+---
+subtitle: Medications Interoperability Hackathon Success
+cover-img: /assets/img/Hackathon2019/group_photo.jpg
+---
+
+
 A team of 3 developers from York Teaching Hospital NHS Foundation Trust (Anne Jessop, Danny Holdsworth and Jonathan Atkinson) attended the Leeds INTEROPen hackathon on 14-15 October 2019.
 
 ### [#FHIRHack19](https://twitter.com/hashtag/FHIRHack19)
