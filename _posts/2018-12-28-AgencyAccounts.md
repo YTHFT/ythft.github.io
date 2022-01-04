@@ -6,7 +6,7 @@ title: Agency Logons
 ---
 ## The Problem with Nurse Access
 
-We use a lot of Bank and Agency Staff.
+We tend to use a lot of Bank and Agency Staff.
 To login to Nursing Assessments, Vital Signs recording and EPMA the user has to login using a valid CPD User account (CPD is our ePR/PAS).
 These accounts are Single Sign on, and so must be set up in active directory. This is problematic, since Agency nurses tend to pitch up out of hours quite a lot!
 
