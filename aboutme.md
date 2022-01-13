@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: Digital Documentation Project
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Nik Coventry. I am the lead nurse for this project:
 
 - I rock a great moustache
 - I'm extremely loyal to my family
