@@ -4,13 +4,14 @@ title: About Us
 subtitle: Digital Documentation Project
 ---
 
-My name is Nik Coventry. I am the lead nurse for this project:
+My name is Nik Coventry. I am the Lead Nurse for this project:
 
-- I rock a great moustache
-- I'm extremely loyal to my family
+- We are developing a new adult inpatient digital health record using oracle APEX
+- The first release will contain key nursing risk assessments and care plans
+- We have foccused on user centred design and workflow, not simply creating digital versions of paper documents
 
-What else do you need?
+What else do you need to know?
 
-### My story
+### Mobile Devices
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+The really exiciting part is that the development can be accessed on mobile devices   [awesome,right?](https://tenor.com/view/excited-awesome-wow-amazed-amazing-gif-16342272).
