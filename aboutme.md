@@ -15,4 +15,4 @@ What else do you need to know?
 ### Mobile Devices
 
 The really exiciting part is that the development can be accessed on mobile devices 
-![Awesome, right!] (https://c.tenor.com/JKAivL8nM5EAAAAC/excited-awesome.gif)
+![Awesome, right!] 
