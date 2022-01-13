@@ -14,4 +14,5 @@ What else do you need to know?
 
 ### Mobile Devices
 
-The really exiciting part is that the development can be accessed on mobile devices   [awesome,right?](https://tenor.com/view/excited-awesome-wow-amazed-amazing-gif-16342272).
+The really exiciting part is that the development can be accessed on mobile devices 
+Add this ![Awesome, right!](excited-awesome. gif) / ! [](name-of-gif-file. gif
