@@ -14,5 +14,6 @@ What else do you need to know?
 
 ### Mobile Devices
 
-The really exiciting part is that the development can be accessed on mobile devices 
+The really exciting part is that the development can be accessed on mobile devices 
+
 ![awesome-minions.gif](/assets/img/awesome-minions.gif)
